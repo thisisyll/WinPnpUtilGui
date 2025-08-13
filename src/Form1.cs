@@ -24,10 +24,10 @@ namespace PnpUtilGui
         private static readonly Dictionary<string, (string English, string Chinese)> DriverPropertyMap =
              new Dictionary<string, (string English, string Chinese)>
              {
-                { "PublishedName", ("Published name", "發佈名稱") },
-                 { "OriginalName", ("Original name", "原始名稱") },
-                { "Provider", ("Provider name", "提供者名稱") },
-                { "Class", ("Class name", "類別名稱") },
+                { "PublishedName", ("Published Name", "發佈名稱") },
+                 { "OriginalName", ("Original Name", "原始名稱") },
+                { "Provider", ("Provider Name", "提供者名稱") },
+                { "Class", ("Class Name", "類別名稱") },
                 { "DriverVersion", ("Driver Version", "驅動程式版本") }
              };
 
