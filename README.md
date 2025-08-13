@@ -1,4 +1,4 @@
-# ✨ PnpUtilGui - A Graphical User Interface for PnPUtil ✨
+# ✨ WinPnpUtilGui - GUI for PnPUtil on Windows
 
 A simple C# Windows Forms application providing a GUI for managing device drivers via `pnputil.exe`.
 
